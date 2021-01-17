@@ -1,6 +1,6 @@
 O projeto quando alterado e feito os mesmos testes apresentados em video não encontrei nenhuma alteração de funcionamento,
 por mais que o objeto seje alterado como esta no scopo da aplicação e é singleton a injeção apresenta o mesmo objeto para
-todos os usuarios.
+todos os usuarios, quando alterado em um navegador é apresentado no outro de forma igual.
 
 # singletton project
 
